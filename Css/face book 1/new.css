@@ -1,0 +1,27 @@
+.box {
+   background-color: white;
+   width: 490px;
+   /* height: 750px; */
+   border-style: dotted;
+   border-color: black;
+   border: 2px solid black;
+   padding: 20px;
+   box-shadow: 5px 5px 5px gray;
+   margin-left: 480px;
+
+}
+
+.genderSpan {
+   border:1px  solid black;
+   padding: 10px;
+   
+}
+.genderSpan{
+
+   border:1px solid black;
+   padding: 10px;
+}
+.genderSpan{
+   border:1px solid black;
+   padding: 10px;
+}

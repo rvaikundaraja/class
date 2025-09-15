@@ -1,0 +1,44 @@
+#newId {
+    color: red;
+}                                           
+
+.newClass {
+    color: green !important;
+}
+
+.newClass2 {
+    color: chocolate;
+}
+
+/*text Decoration*/
+
+.Para {
+    color: blueviolet;
+    background-color: rgb(112, 247, 247);
+    font-size: 30px;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 900;
+    text-align: justify;
+    text-decoration: line-through red;
+}
+
+
+/* box Modal */
+
+.Box {
+    background-color: darkkhaki;
+    width: 200px;
+    height: 200px;
+    border-width: 10px;
+    border-style: dashed;
+    border-color: blue;
+    border: 15px solid red;
+    margin-left: 100px;
+    padding: 20px;
+
+    border-radius: 20px;
+    box-shadow: 50px 50px 50px black;
+
+
+}

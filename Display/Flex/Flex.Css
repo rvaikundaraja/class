@@ -1,0 +1,22 @@
+.Parent{
+    background-color: black;
+    padding: 20px;
+    height: 100vh;
+    display: flex;
+    gap: 10px;
+    /* flex-direction: column; */
+    justify-content: space-evenly;
+    align-items:start;
+    flex-wrap: wrap;
+}
+
+.Child{
+    background-color: rgb(114, 124, 124) ;
+    width: 200px;
+    height: 200px;
+    border: 1px solid rgb(53, 46, 46);
+    /* margin-bottom: 20px; */
+    text-align: center;
+    font-size: 30px;
+    
+}

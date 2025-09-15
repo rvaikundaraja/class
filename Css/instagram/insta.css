@@ -1,0 +1,12 @@
+.box {
+    background-color: white;
+    width: 550px;
+    height: 600px;
+    border-style: dotted
+    border-color: black;
+    border: 2px solid black;
+     padding: 5px;
+     box-shadow: 5px 5px 5px black;
+
+}
+.para{text-align: justify;}

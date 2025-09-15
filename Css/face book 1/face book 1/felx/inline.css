@@ -1,0 +1,23 @@
+.child {
+   flex-wrap: wrap;
+  height: 350px;
+  width: 400px;
+margin-right: 1000px;
+ display: inline-block;
+ 
+}
+.parant {
+ 
+  background-color:black ;
+    border: solid;
+    font-style: italic;
+}
+.box {
+   background-color: white;
+   padding: 26px;
+   width: 290px;
+   min-height: 535px;
+    gap: 10px;
+  border: solid;
+  
+}
